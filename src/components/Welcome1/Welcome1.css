@@ -1,0 +1,18 @@
+.lia {
+  font-size: xx-large;
+  float:left;
+  width:82%;
+  overflow: hidden;
+  padding: 8px;
+}
+.button{
+  padding-bottom: 1.2%;
+  padding-top: 1%;
+  float:right;
+  width:8%;
+  background-color: turquoise;
+}
+.color{
+  background-color: turquoise;
+  background-image: url('');
+}

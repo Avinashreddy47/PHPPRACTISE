@@ -1,0 +1,97 @@
+*{
+  background-color: white;
+}
+.image_upload{
+  background-color: white;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: khaki;
+  font-size: 20px;
+}
+input[type="file"] {
+  font-size: 20px;
+  text-align:left;
+  padding-top:1.2%;
+  display:block;
+  margin-left:42%;
+  font-weight: bold;
+  font-family:'Times New Roman', Times, serif;
+}
+.choose_file{
+  padding-top: 2%;
+  background-color: white;
+  text-align:center;
+  text-transform:uppercase;
+}
+.upload{
+  text-align:left;
+  padding-top:1.2%;
+  display:block;
+  margin-left:47%;
+  border: none;
+}
+.border {
+  padding:2px;
+  padding-top:5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  outline: 2px solid blue;
+  margin-right: 0;
+  margin-left:auto;
+  display:block;/*aligns text right*/
+  background-color: blue; /* Green */
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  /* display: inline-block; aligns text towards right */
+  font-size: 16px;
+  width:initial;
+}
+.box 
+{
+  padding-top:2%;
+   /* --gap: 12px;  */
+  display: inline-flex;
+  flex-wrap: wrap;
+  /* margin: calc(-1 * var(--gap)) 0 0 calc(-1 * var(--gap)); */
+  /* width: calc(100% + var(--gap)); */
+  /* padding-left: 5%;  */
+   /* padding-right: 80%; */
+  /* padding-top: 2%;
+  flex-grow: 2; */
+  
+  /* min-height: 80%;
+  max-height: auto;
+  padding-left: 3%;
+  width: 98%;
+  background-color:seashell;
+  margin-top:4rem;
+  grid-row-gap: 50px;
+  grid-column-gap: 50px;
+  align-items: center;
+  justify-content: left; 
+  align-items: center;
+  min-height: 80%;
+  max-height: auto; */
+  /* grid-area: photo;
+  background: yellow;
+  height: 100%;
+  background-size: cover; /* <-- background size */
+  /* background-position: center; 
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 40vh 30vh 30vh;
+  grid-gap: 10px;  */
+  /* grid-template-areas: "info    photo photo photo   photo" "comment photo photo photo   photo" "comment tag     tag   album rotate" */
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  /* border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 200px;
+  font-size: 300px;
+  text-align: center;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: auto auto auto;
+  background-color:silver;
+  padding: 10px; */
+
+}

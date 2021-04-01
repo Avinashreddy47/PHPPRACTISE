@@ -1,0 +1,10 @@
+body{
+    columns: #333333;
+}
+.primary{
+    background:#f2b632 ;
+}
+.secondary{
+    background:#f2b632;
+    color:#ffffff ;
+}

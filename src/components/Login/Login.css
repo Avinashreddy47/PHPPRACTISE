@@ -1,0 +1,85 @@
+.body{ 
+  margin: 10px;  
+  padding: 100px;  
+  background-color:pink;  
+  height:1000px;
+  width: auto;
+  font-family: 'Arial';  
+}
+/* label{  
+  /* color: #08ffd1;   */
+  /* margin-top: 2%;
+  border-style: none;
+  font-size: 20px; 
+}   */
+#uname{  
+  margin-top: 2%;
+  width: 300px;  
+  height: 30px;  
+  border: none;  
+  border-radius: 3px;  
+  padding-left: 8px;  
+} 
+#pass{  
+  width: 300px;  
+  height: 30px;  
+  border: none;  
+  border-radius: 3px;  
+  padding-left: 8px;  
+    
+}  
+h1{
+    text-align: center;  
+    color: #277582;
+    background-color:pink;  
+    padding: 20px; 
+    height:auto;
+    width: auto;
+}
+.login{
+  width: 450px;  
+  overflow: hidden;  
+  margin: auto;  
+  margin: 20 0 0 450px;  
+  padding: 80px;  
+  background:cornflowerblue;  
+  border-radius: 15px ; 
+  border-left: red ;
+  border-color:red;
+}
+#log{  
+  margin-top:2%;
+  margin-bottom: 2%;
+  width: 300px;  
+  height: 30px;  
+  border: none;  
+  border-radius: 17px;  
+  padding-left: 7px;  
+  background-color:skyblue;
+} 
+/* .login__form {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3%;
+  border: 5px;
+}
+
+.login__subheader__text {
+      font-size: 20px;
+      color: rgb(235, 231, 225);
+}
+
+#loginbutton {
+  margin-right: 10px;
+}
+h1{
+  height:auto;
+  width: auto;
+}
+.lia h1{
+  font-size: xx-large;
+  float:left;
+  width:82%;
+  overflow: hidden;
+  padding: 8px;
+} */
